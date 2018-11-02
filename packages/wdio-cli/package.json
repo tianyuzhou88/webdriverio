@@ -36,6 +36,7 @@
   },
   "dependencies": {
     "chalk": "^2.3.2",
+    "chokidar": "^2.0.4",
     "cli-spinners": "^1.1.0",
     "deepmerge": "^2.0.1",
     "ejs": "^2.5.7",
